@@ -2,6 +2,7 @@
 ## Installation
 **Importing Libraries**</br>
 * numpy
+* scipy
 * pandas
 * matplotlib
 * sklearn
