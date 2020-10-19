@@ -1,4 +1,4 @@
-# Purchase-Product-on-Starbucks
+# Purchase Product on Starbucks
 ## Installation
 **Importing Libraries**</br>
 * numpy
